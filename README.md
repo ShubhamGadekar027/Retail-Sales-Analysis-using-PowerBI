@@ -8,4 +8,4 @@ This project involves analyzing the sales dataset of EASTSIDE, a retail company 
 <p align="center"><img src='https://https://i.postimg.cc/qq1wxbmv/SS1.png'><p align="center">
 
 
-<p align="center"><img src='https://https://i.postimg.cc/dQNGnys3/SS2.png'><p align="center">
+<p align="center"><img src='https://i.postimg.cc/dQNGnys3/SS2.png'><p align="center">
